@@ -1,6 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "6.4212 Final Project: TetrisBot"
+excerpt: "<br/><img src='/images/500x300.png'>
+[6.4212](https://manipulation.csail.mit.edu/Fall2022/) is a graduate class that focuses on creating robotic systems that can automatically manipulate physical objects in unstructured environments. For our final project, we developed TetrisBot: an end-to-end robotic system that plays Tetris. We developed the perception, control, and gameplay systems that Tetris requires using [Drake](https://drake.mit.edu/). This project won the *Best Project Award* for Fall 2022. 
+"
 collection: portfolio
 ---
 
