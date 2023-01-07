@@ -6,16 +6,24 @@ excerpt: "<br/><img src='/images/tetris.png' width='200'><br/><br/>
 [video](https://www.youtube.com/watch?v=ut7HZ8bLqtA&ab_channel=AshleyKe) [paper](https://slolla.github.io/files/tetrisbot.pdf)
 
 "
-collection: portfolio
+collection: projects
 
 title: "6.8610 Final Project: Predicting Metadata from Song Lyrics Using NLP"
+excerpt: "<br/>
+[6.8610](https://mit-6861.github.io/) is MIT's graduate NLP class. For our final project, we developed a method for automatically predicting song metadata (attributes such as danceability, energy, etc). Our algorithm shows high promise and is a step towards replacing Spotify's crowdsourced metadata system, which can be highly inaccurate and incomplete. 
+
+[paper](https://slolla.github.io/files/nlp.pdf)"
+
+collection: projects
+
+title: "6.869 Final Project: StyleAI: A Deep-Learning Powered Outfit Generator"
 excerpt: "<br/><img src='/images/tetris.png' width='200'><br/><br/>
 [6.8610](https://mit-6861.github.io/) is MIT's graduate NLP class. For our final project, we developed a method for automatically predicting song metadata (attributes such as danceability, energy, etc). Our algorithm shows high promise and is a step towards replacing Spotify's crowdsourced metadata system, which can be highly inaccurate and incomplete. 
 
 [paper](https://slolla.github.io/files/nlp.pdf)
 
 "
-collection: portfolio
+collection: projects
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
