@@ -1,20 +1,6 @@
 ---
-title: "Teaching experience 2"
+title: "Curriculum Development Team: Momentum AI"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+date: 2023-01-09
+excerpt: "[Momentum AI](momentumai.org) is an MIT-founded nonprofit that has raised over 250K to teach high schoolers about AI. As part of the curriculum team, I help develop lesson plans and labs for students. "
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

@@ -1,20 +1,6 @@
 ---
-title: "Teaching experience 1"
+title: "Instructor: Intro to Deep Learning"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2023-01-09
+excerpt: "Instructor and lead teaching assistant for [Introduction to Deep Learning](introtodeeplearning.com), a one-week course during MIT's Independent Activities Period. This is one of the most popular classes at MIT, and covers a wide array of topics ranging from the basics of machine learning to generative modeling, uncertainty estimation, and reinforcement learning."
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
