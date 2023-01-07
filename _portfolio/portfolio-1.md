@@ -7,6 +7,15 @@ excerpt: "<br/><img src='/images/tetris.png' width='200'><br/><br/>
 
 "
 collection: portfolio
+
+title: "6.8610 Final Project: Predicting Metadata from Song Lyrics Using NLP"
+excerpt: "<br/><img src='/images/tetris.png' width='200'><br/><br/>
+[6.8610](https://mit-6861.github.io/) is MIT's graduate NLP class. For our final project, we developed a method for automatically predicting song metadata (attributes such as danceability, energy, etc). Our algorithm shows high promise and is a step towards replacing Spotify's crowdsourced metadata system, which can be highly inaccurate and incomplete. 
+
+[paper](https://slolla.github.io/files/nlp.pdf)
+
+"
+collection: portfolio
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
