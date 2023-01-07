@@ -4,7 +4,7 @@ main:
     url: /projects/
 
   - title: "Teaching"
-    url: /talks/    
+    url: /teaching/    
 
   - title: "Resume"
     url: /files/resume.pdf
