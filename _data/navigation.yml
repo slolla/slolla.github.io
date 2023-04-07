@@ -2,9 +2,6 @@
 main:
   - title: "Projects"
     url: /projects/
-  
-  - title: "Work Experience"
-    url: /experience/   
 
   - title: "Teaching"
     url: /teaching/    
