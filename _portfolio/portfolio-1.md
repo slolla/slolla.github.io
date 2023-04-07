@@ -1,9 +1,9 @@
 ---
 title: "6.4212 Final Project: TetrisBot"
-excerpt: "<br/><img src='/images/tetris.png' width='150' align='left' >
+excerpt: "<img src='/images/tetris.png' width='150' align='left' >
 [6.4212](https://manipulation.csail.mit.edu/Fall2022/) is a graduate class that focuses on creating robotic systems that can automatically manipulate physical objects in unstructured environments. For our final project, we developed TetrisBot: an end-to-end robotic system that plays Tetris. We developed the perception, control, and gameplay systems that Tetris requires using [Drake](https://drake.mit.edu/). This project won the *Best Project Award* for Fall 2022. <br/>
 
-[video](https://www.youtube.com/watch?v=ut7HZ8bLqtA&ab_channel=AshleyKe) | [paper](https://slolla.github.io/files/tetrisbot.pdf) <br/>
+[video](https://www.youtube.com/watch?v=ut7HZ8bLqtA&ab_channel=AshleyKe) | [paper](https://slolla.github.io/files/tetrisbot.pdf)
 
 "
 collection: projects
