@@ -1,9 +1,9 @@
 ---
 title: "CAPSA: A Model-Agnostic Framework for Risk-Awareness"
 excerpt: "<img src='/images/capsa.png' width='150' align='left' >
-[6.4212](https://manipulation.csail.mit.edu/Fall2022/) is a graduate class that focuses on creating robotic systems that can automatically manipulate physical objects in unstructured environments. For our final project, we developed TetrisBot: an end-to-end robotic system that plays Tetris. We developed the perception, control, and gameplay systems that Tetris requires using [Drake](https://drake.mit.edu/). This project won the *Best Project Award* for Fall 2022. <br/>
+As part of my work at [Themis AI](https://themisai.io), I spearheaded the development of CAPSA, an open-source toolkit to automatically diagnose risk in ML models, regardless of the architecture or data modality. CAPSA can be used through a one-line addition to any training workflow. By leveraging shared feature backbones and composing risk metrics, we are able to achieve state of the art risk estimation in a more efficient and robust manner. Our paper, on which I am a co-first author, was published at the Robot Learning Workshop at NeurIPS '22.<br/>
 
-[video](https://www.youtube.com/watch?v=ut7HZ8bLqtA&ab_channel=AshleyKe) | [paper](https://slolla.github.io/files/tetrisbot.pdf)
+[talk](https://slideslive.com/38994172/capsa-a-unified-framework-for-quantifying-risk-in-deep-neural-networks?ref=speaker-117270) | [paper](https://themisai.io/papers/capsa.pdf) | [code](https://github.com/themis-ai/capsa)
 
 "
 collection: projects
