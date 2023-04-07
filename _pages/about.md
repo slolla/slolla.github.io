@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sadhana Lolla"
+title: "Sadhana Lolla (2:36)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
