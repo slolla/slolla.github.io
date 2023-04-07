@@ -12,7 +12,7 @@ I am a third-year undergraduate student at MIT majoring in computer science and 
 
 Previously, I've been fortunate to intern at Google on the [Keras](https://keras.io/) team with [Francois Chollet](https://fchollet.com/), where I worked on accelerating distributed training, and the [Discover Ranking Team](https://developers.google.com/search/docs/appearance/google-discover), where I developed recommendation algorithms. I've also interned for Decisive Analytics, where I developed CV-based security systems for the air force, and have conducted research at George Washington University at the [Medical Imaging and Image Analysis Laboratory](https://loewlab.seas.gwu.edu/).
 
-This summer, I will be joining Microsoft Research as an Undergraduate Research intern.
+This summer, I will be joining the Biomedical ML group at Microsoft Research, where I will be working as an Undergraduate Research intern with [Dr. Ava Amini](https://avaamini.com/).
 
 In addition to research, I am an instructor for [MIT's Introduction to Deep Learning Course](http://introtodeeplearning.com/), one of the most popular classes at MIT. I also volunteer for [Momentum AI](https://momentumai.org/).
 
