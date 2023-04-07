@@ -5,5 +5,5 @@ excerpt: "
 
 [paper](https://slolla.github.io/files/nlp.pdf)"
 
-collection: projects
+collection: experience
 ---

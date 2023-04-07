@@ -6,7 +6,7 @@ excerpt: "<img src='/images/tetris.png' width='150' align='left' >
 [video](https://www.youtube.com/watch?v=ut7HZ8bLqtA&ab_channel=AshleyKe) | [paper](https://slolla.github.io/files/tetrisbot.pdf)
 
 "
-collection: projects
+collection: experience
 
 ---
 

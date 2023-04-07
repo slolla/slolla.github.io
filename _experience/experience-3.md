@@ -6,5 +6,5 @@ excerpt: "<img align='left' src='/images/styleai.png' width='200'>
 [paper](https://slolla.github.io/files/StyleAI.pdf) <br/>
 
 "
-collection: projects
+collection: experience
 ---
