@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p float="left">
-<img src='/images/ted_headshot.jpeg' width='300'>
+<img src='/images/profile_3.jpeg' width='300'>
 <img src='/images/ted_action.png' width='300'>
 </p>
 I am a third-year undergraduate student at MIT majoring in computer science and minoring in mathematics. My research focuses broadly on the application of deep learning to robotics and on designing and deploying safe and trustworthy AI. I currently work at the Distributed Robotics Laboratory with [Prof. Daniela Rus](http://danielarus.csail.mit.edu/) and [Dr. Alexander Amini](https://www.mit.edu/~amini/), and also as a Machine Learning Scientist at [Themis AI](https://themisai.io/). I am also an Analyst at [Safar Partners](https://www.safar.partners/), a venture capital firm that focuses on investing in early stage technology companies.
