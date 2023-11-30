@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Teaching Assistant: Robotic Manipulation"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 date: 2023-09-01
 location: "Cambridge, MA, USA"
 venue: "MIT EECS"
