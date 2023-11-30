@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Teaching Assistant: Robotic Manipulation"
+title: "Undergraduate Teaching Assistant for 6.4120/6.4212: Robotic Manipulation"
 collection: teaching
 type: "Undergraduate Course"
 date: 2023-09-01
