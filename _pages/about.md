@@ -16,7 +16,7 @@ My research focuses broadly on the application of deep learning to robotics and 
 
 For the past two years, I have conducted research at the Distributed Robotics Laboratory with [Prof. Daniela Rus](http://danielarus.csail.mit.edu/) and [Dr. Alexander Amini](https://www.mit.edu/~amini/), where my projects have ranged from debiasing autonomous vehicles to developing more generalizeable control policies for soft robotics. 
 
-Previously, I've been fortunate to work at [Themis AI](https://themisai.io/) on uncertainty quantification in deep learning, [Google Keras](https://keras.io/) on accelerating distributed training,  [Google Discover Ranking Team](https://developers.google.com/search/docs/appearance/google-discover), on recommendation algorithms, and [Safar Partners](https://www.safar.partners/) on investing in deep learning startups. 
+Previously, I've been fortunate to work at [Themis AI](https://themisai.io/) on uncertainty quantification in deep learning, [Google's Keras Team](https://keras.io/) on accelerating distributed training,  [Google's Discover Ranking Team](https://developers.google.com/search/docs/appearance/google-discover) on recommendation algorithms, and [Safar Partners](https://www.safar.partners/) on investing in deep learning startups. 
 
 I am also an instructor and lead TA for [MIT's Introduction to Deep Learning Course](http://introtodeeplearning.com/), one of the most popular deep learning classes in the world. I also serve as the curriculum team lead for [Momentum AI](https://momentumai.org/).
 
