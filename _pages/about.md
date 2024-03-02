@@ -10,7 +10,7 @@ redirect_from:
 <p float="left">
 <img src='/images/ted_action.png' width='300'>
 </p>
-I am a fourth-year undergraduate student at MIT majoring in computer science and minoring in mathematics and literature. I am also a [Gates Cambridge scholar-elect](https://news.mit.edu/2024/sadhana-lolla-gates-cambridge-scholar-0227) and will spend the next year obtaining an MPhil in Technology Policy at the University of Cambridge.
+I am a fourth-year undergraduate student at MIT majoring in computer science and minoring in mathematics and literature. I am also a [Gates Cambridge Scholar-Elect](https://news.mit.edu/2024/sadhana-lolla-gates-cambridge-scholar-0227) and will spend the next year obtaining an MPhil in Technology Policy at the University of Cambridge.
 
 My research focuses broadly on the application of deep learning to robotics and on designing and deploying uncertainty-aware artificial intelligence. I am currently working on input uncertainty quantification and propagation as an Undergraduate Research Intern at Microsoft Research with [Dr. Ava Amini](https://avaamini.com/). 
 
