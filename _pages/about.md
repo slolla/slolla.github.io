@@ -16,10 +16,8 @@ My research focuses broadly on the application of deep learning to robotics and 
 
 For the past two years, I have conducted research at the Distributed Robotics Laboratory with [Prof. Daniela Rus](http://danielarus.csail.mit.edu/) and [Dr. Alexander Amini](https://www.mit.edu/~amini/), where my projects have ranged from debiasing autonomous vehicles to developing more generalizeable control policies for soft robotics. 
 
-Previously, I've been fortunate to work as a Machine Learning Scientist at [Themis AI](https://themisai.io/). I've also interned at Google on the [Keras](https://keras.io/) team with [Francois Chollet](https://fchollet.com/), where I worked on accelerating distributed training, and the [Discover Ranking Team](https://developers.google.com/search/docs/appearance/google-discover), where I developed recommendation algorithms. I've also interned for Decisive Analytics, where I developed CV-based security systems for the air force, and have conducted research at George Washington University at the [Medical Imaging and Image Analysis Laboratory](https://loewlab.seas.gwu.edu/).
+Previously, I've been fortunate to work at [Themis AI](https://themisai.io/) on uncertainty quantification in deep learning, [Google Keras](https://keras.io/) on accelerating distributed training,  [Google Discover Ranking Team](https://developers.google.com/search/docs/appearance/google-discover), on recommendation algorithms, and [Safar Partners](https://www.safar.partners/) on investing in deep learning startups. 
 
-In addition to research, I have worked as an Analyst at [Safar Partners](https://www.safar.partners/), a venture capital firm that focuses on investing in early stage technology companies.
-
-I'm also really passionate about teaching: I am an instructor and lead TA for [MIT's Introduction to Deep Learning Course](http://introtodeeplearning.com/), one of the most popular deep learning classes in the world. I also serve as the curriculum team lead for [Momentum AI](https://momentumai.org/).
+I am also an instructor and lead TA for [MIT's Introduction to Deep Learning Course](http://introtodeeplearning.com/), one of the most popular deep learning classes in the world. I also serve as the curriculum team lead for [Momentum AI](https://momentumai.org/).
 
 In my free time, I enjoy [baking](https://www.instagram.com/lollabytes/), reading, and solving crosswords.  
