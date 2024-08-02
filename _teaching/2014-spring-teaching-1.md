@@ -5,5 +5,5 @@ date: 2023-01-09
 location: "Cambridge, MA, USA"
 type: "Massive Open Online Course (MOOC)"
 venue: "MIT EECS"
-excerpt: "Instructor and lead teaching assistant for [Introduction to Deep Learning](https://introtodeeplearning.com), a one-week course during MIT's Independent Activities Period. This is one of the most popular classes at MIT, and covers a wide array of topics ranging from the basics of machine learning to generative modeling, uncertainty estimation, and reinforcement learning. My lecture on uncertainty-aware deep learning has reached 50K people online, and I was the lead teaching assistant for 300+ in person attendees."
+excerpt: "Instructor and lead teaching assistant for [Introduction to Deep Learning](http://introtodeeplearning.com), a one-week course during MIT's Independent Activities Period. This is one of the most popular classes at MIT, and covers a wide array of topics ranging from the basics of machine learning to generative modeling, uncertainty estimation, and reinforcement learning. My lecture on uncertainty-aware deep learning has reached 50K people online, and I was the lead teaching assistant for 300+ in person attendees."
 ---
