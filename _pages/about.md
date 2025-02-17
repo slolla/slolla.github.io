@@ -11,7 +11,7 @@ redirect_from:
 I am currently obtaining an MPhil in Technology Policy at the University of Cambridge as a [Gates Cambridge Scholar](https://news.mit.edu/2024/sadhana-lolla-gates-cambridge-scholar-0227). I'm also a visiting researcher at Stanford, where I work on test-time embodied reasoning with the [IRIS Lab](https://irislab.stanford.edu//index.html) and am advised by Chelsea Finn.
 Previously, I earned a B.S. in computer science with minors in mathematics and literature from MIT. 
 
-My research focuses broadly on robot learning and on designing and deploying uncertainty-aware artificial intelligence. 
+My research focuses broadly on creating generalizeable, adaptable, and robust learning algorithms for robotics. 
 
 At MIT, I was fortunate to have been advised by [Prof. Daniela Rus](http://danielarus.csail.mit.edu/) and [Dr. Alexander Amini](https://www.mit.edu/~amini/) at the Distributed Robotics Laboratory, where I worked on projects ranging from debiasing autonomous vehicles to developing more generalizeable control policies for soft robotics. 
 
