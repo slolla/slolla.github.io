@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p float="left">
-<img src='/images/ted_action.png' width='300'>
-</p>
 
-I am currently obtaining an MPhil in Technology Policy at the University of Cambridge as a [Gates Cambridge Scholar](https://news.mit.edu/2024/sadhana-lolla-gates-cambridge-scholar-0227). Previously, I earned a B.S. in computer science with minors in mathematics and literature from MIT. 
+I am currently obtaining an MPhil in Technology Policy at the University of Cambridge as a [Gates Cambridge Scholar](https://news.mit.edu/2024/sadhana-lolla-gates-cambridge-scholar-0227). I'm also a visiting researcher at Stanford, where I work on test-time embodied reasoning with the [IRIS Lab](https://irislab.stanford.edu//index.html) and am advised by Chelsea Finn.
+Previously, I earned a B.S. in computer science with minors in mathematics and literature from MIT. 
 
 My research focuses broadly on robot learning and on designing and deploying uncertainty-aware artificial intelligence. 
 
