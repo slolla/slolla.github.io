@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently obtaining an MPhil in Technology Policy at the University of Cambridge as a [Gates Cambridge Scholar](https://news.mit.edu/2024/sadhana-lolla-gates-cambridge-scholar-0227). I'm also a visiting researcher at Stanford, where I work on test-time embodied reasoning with the [IRIS Lab](https://irislab.stanford.edu//index.html) and am advised by Chelsea Finn.
-Previously, I earned a B.S. in computer science with minors in mathematics and literature from MIT. 
+Previously, I earned a B.S. in computer science with minors in mathematics and literature from MIT and graduated in May 2024. 
 
 My research focuses broadly on creating generalizeable, adaptable, and robust learning algorithms for robotics. 
 
